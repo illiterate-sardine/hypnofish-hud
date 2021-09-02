@@ -1,6 +1,7 @@
 ![Logo](https://i.imgur.com/oG7xN4t.png)
 
 **Material Design Team Fortress 2 Hud by Hypnotize**
+Forked by illiterate-sardine
 
 <a>LINKS</a>
 ====
